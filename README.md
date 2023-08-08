@@ -38,7 +38,7 @@ Follow these steps to get the Product Management System up and running on your l
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/pms-ui.git
+   git clone https://github.com/bollo-omar/pms-ui.git
    cd pms-ui
    ```
 
@@ -89,4 +89,4 @@ We welcome contributions to enhance the Product Management System. To contribute
 
 ---
 
-We hope you find the Product Management System valuable for your product management needs. If you encounter any issues or have suggestions for improvements, please don't hesitate to [contact us](mailto:contact@pms.com). Your feedback is highly appreciated!
+We hope you find the Product Management System valuable for your product management needs. If you encounter any issues or have suggestions for improvements, please don't hesitate to [contact us](mailto:bolloaggrey@outlook.com). Your feedback is highly appreciated!
