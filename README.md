@@ -1,7 +1,6 @@
 # Product Management System (PMS) - Readme
 
-![PMS Logo](![hayes-potter-ElamTZZlm18-unsplash](https://github.com/bollo-omar/pms-ui/assets/16776166/a78cb9bf-7d3e-4ec6-b1be-6740a8594b29)
-)
+![PMS Banner](https://unsplash.com/photos/a-shelf-filled-with-lots-of-different-types-of-food-d4ddiwmbdT0)
 
 Welcome to the Product Management System (PMS) - an Angular-based solution for efficient and streamlined product management.
 
@@ -70,10 +69,11 @@ Follow these steps to get the Product Management System up and running on your l
 
 ## Technologies Used
 
-![Angular](https://img.shields.io/badge/Angular-v12.0.0-blue)
+
+![Angular](https://img.shields.io/badge/Angular-v16.0.0-blue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.0.0-purple)
-![TypeScript](https://img.shields.io/badge/TypeScript-v4.3.5-blue)
-![Node.js](https://img.shields.io/badge/Node.js-v14.17.5-green)
+![TypeScript](https://img.shields.io/badge/TypeScript-v5.0.0-blue)
+![Node.js](https://img.shields.io/badge/Node.js-v18.0.0-green)
 
 ## API Repository
 
