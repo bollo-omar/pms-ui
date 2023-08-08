@@ -1,28 +1,92 @@
-# PmsUi
+# Product Management System (PMS) - Readme
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.1.
+![PMS Logo](![hayes-potter-ElamTZZlm18-unsplash](https://github.com/bollo-omar/pms-ui/assets/16776166/a78cb9bf-7d3e-4ec6-b1be-6740a8594b29)
+)
 
-## Development server
+Welcome to the Product Management System (PMS) - an Angular-based solution for efficient and streamlined product management.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Table of Contents
 
-## Code scaffolding
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [API Repository](#api-repository)
+- [Contributing](#contributing)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Introduction
 
-## Build
+The Product Management System (PMS) is a user-friendly web application designed to assist product managers in maintaining and monitoring their products throughout their lifecycle. With an intuitive user interface built using Angular, PMS provides a seamless experience for managing products, tracking updates, and collaborating with team members.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Features
 
-## Running unit tests
+- **Dashboard Overview:** Get a quick glance at product performance metrics, recent updates, and pending tasks right on the dashboard.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- **Product Catalog:** Easily add, edit, or remove products from the central catalog. Categorize products for efficient organization.
 
-## Running end-to-end tests
+- **Product Manipulation:** Effortlessly add, modify, view, and delete products.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- **Lifecycle Management:** Track products through various stages of their lifecycle, from ideation to retirement.
 
-## Further help
+- **Task Tracking:** Assign tasks, set deadlines, and track their progress. Keep the team aligned and informed.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# pms-ui
+- **Collaboration:** Communicate seamlessly within the platform. Comment on updates, discuss strategies, and share insights.
+
+## Getting Started
+
+Follow these steps to get the Product Management System up and running on your local machine:
+
+1. **Clone the Repository:**
+   ```
+   git clone https://github.com/your-username/pms-ui.git
+   cd pms-ui
+   ```
+
+2. **Install Dependencies:**
+   ```
+   npm install
+   ```
+
+3. **Run the Development Server:**
+   ```
+   ng serve
+   ```
+
+4. **Access the Application:**
+   Open your web browser and navigate to `http://localhost:4200`.
+
+## Usage
+
+1. **Dashboard:** Get an overview of product data, updates, and tasks.
+
+2. **Catalog:** Manage products by adding, editing, or deleting entries.
+
+3. **Product Manipulation:** Perform seamless product operations such as adding, modifying, viewing, and deleting.
+
+4. **Lifecycle:** Monitor the progress of products as they move through different stages.
+
+5. **Tasks:** Assign and track tasks, ensuring efficient collaboration.
+
+## Technologies Used
+
+![Angular](https://img.shields.io/badge/Angular-v12.0.0-blue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.0.0-purple)
+![TypeScript](https://img.shields.io/badge/TypeScript-v4.3.5-blue)
+![Node.js](https://img.shields.io/badge/Node.js-v14.17.5-green)
+
+## API Repository
+
+For the backend API of the Product Management System, you can find the repository [here](https://github.com/bollo-omar/pms-api).
+
+## Contributing
+
+We welcome contributions to enhance the Product Management System. To contribute:
+
+1. Fork the repository and create a new branch.
+2. Make your changes and test thoroughly.
+3. Submit a pull request describing your changes and their purpose.
+
+---
+
+We hope you find the Product Management System valuable for your product management needs. If you encounter any issues or have suggestions for improvements, please don't hesitate to [contact us](mailto:contact@pms.com). Your feedback is highly appreciated!
